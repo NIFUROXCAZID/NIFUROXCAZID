@@ -1,8 +1,8 @@
 <!--![Shadir's GitHub Banner](0fa09464c343885355e6aa4d2f4a88b5.gif)-->
 <img align="right" alt="Coding" width="400" src="0fa09464c343885355e6aa4d2f4a88b5.gif">
 Hi 👋 I am an HTML/CSS web developer. I am currently actively studying JavaScript frameworks, especially React.JS, as well as practicing my skills in HTML/CSS and sometimes fulfilling small orders. I have experience working as an HTML/CSS developer and I am striving to become a full-fledged front-end developer.
-
-<br/>  
+<div style="margin: 20px"></div>
+<br/>  <br/> 
 
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
