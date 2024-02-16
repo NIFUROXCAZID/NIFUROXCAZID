@@ -10,13 +10,13 @@
 - 🌱 I have experience working as an HTML/CSS developer and I am striving to become a full-fledged front-end developer.  
   
 
-- 🎮 I love video games, I could talk about them for hours. And I released my own on Steam. 🎮  
+- 🎮 I love video games, I could talk about them for hours. And I released my own on Steam. 
   
 
-- 👁️ I like to visit spooky places and take atmospheric liminal photos. 👁️  
+- 👁️ I like to visit spooky places and take atmospheric liminal photos.  
   
 
-- ⚡ Fun fact: I don't understand the difference between the letters I and E. ⚡  
+- ⚡ Fun fact: I don't understand the difference between the letters I and E. 
 
 <br />
 
