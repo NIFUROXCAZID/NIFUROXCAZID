@@ -1,4 +1,4 @@
-![Shadir's GitHub Banner](0fa09464c343885355e6aa4d2f4a88b5.gif)
+<!--![Shadir's GitHub Banner](0fa09464c343885355e6aa4d2f4a88b5.gif)-->
 <img align="right" alt="Coding" width="400" src="0fa09464c343885355e6aa4d2f4a88b5.gif">
 ### Hi 👋 Looking for an HTML/CSS web developer job. I am currently actively studying JavaScript frameworks, especially React.JS, as well as practicing my skills in HTML/CSS and sometimes fulfilling small orders. I have experience working as an HTML/CSS developer and I am striving to become a full-fledged front-end developer.
 
