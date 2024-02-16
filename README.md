@@ -1,5 +1,5 @@
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/NIFUROXCAZID/NIFUROXCAZID/blob/main/0fa09464c343885355e6aa4d2f4a88b5.gif">
 
+![Shadir's GitHub Banner]([https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc](https://raw.githubusercontent.com/NIFUROXCAZID/NIFUROXCAZID/blob/main/0fa09464c343885355e6aa4d2f4a88b5.gif))
 ### Hi 👋 Looking for an HTML/CSS web developer job. I am currently actively studying JavaScript frameworks, especially React.JS, as well as practicing my skills in HTML/CSS and sometimes fulfilling small orders. I have experience working as an HTML/CSS developer and I am striving to become a full-fledged front-end developer.
 
 <!--
