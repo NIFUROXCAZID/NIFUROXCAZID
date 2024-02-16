@@ -1,6 +1,28 @@
 <!--![Shadir's GitHub Banner](0fa09464c343885355e6aa4d2f4a88b5.gif)-->
 <img align="right" alt="Coding" width="400" src="0fa09464c343885355e6aa4d2f4a88b5.gif">
-Hi 👋 I am an HTML/CSS web developer. I am currently actively studying JavaScript frameworks, especially React.JS, as well as practicing my skills in HTML/CSS and sometimes fulfilling small orders. I have experience working as an HTML/CSS developer and I am striving to become a full-fledged front-end developer.
+
+### <div align="center">Hi 👋 I am an HTML/CSS web developer. </div>  
+  
+
+- 🔭 I am currently actively studying JavaScript frameworks, especially React.JS, as well as practicing my skills in HTML/CSS and sometimes fulfilling small orders.   
+  
+
+- 🌱 I have experience working as an HTML/CSS developer and I am striving to become a full-fledged front-end developer.  
+  
+
+- 🎮 I love video games, I could talk about them for hours. And I released my own on Steam. 🎮  
+  
+
+- 👁️ I like to visit spooky places and take atmospheric liminal photos. 👁️  
+  
+
+- ⚡ Fun fact: I don't understand the difference between the letters I and E. ⚡  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 <div style="margin: 20px"></div>
 <br/>  <br/> 
 
